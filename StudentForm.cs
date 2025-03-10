@@ -1,4 +1,4 @@
-﻿using Sumagang_Jon_Mickyl;
+﻿using Sagum_Justine_Ray;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sumagang_Jon_Mickyl
+namespace Sagum_Justine_Ray
 {
     public partial class StudentForm : Form
     {
@@ -17,16 +17,16 @@ namespace Sumagang_Jon_Mickyl
         {
             InitializeComponent();
             
-            StudentNameLabel.Text = "Sumagang Jon Mickyl";
-            StudentAgeLabel.Text = "21";
-            StudentAddressLabel.Text = "Bautista Pangasinan";
-            StudentContactLabel.Text = "09914850595";
-            StudentEmailLabel.Text = "mickylmickey@gmail.com";
-            StudentCourseYearLabel.Text = "BSIT Third";
-            ParentNameLabel.Text = "Mary Sumagang";
-            ParentContactLabel.Text = "09317570091";
-            HobbiesLabel.Text = "Gaming";
-            NicknameLabel.Text = "JM";
+            StudentNameLabel.Text = "Sagum_Justine_Ray";
+            StudentAgeLabel.Text = "20";
+            StudentAddressLabel.Text = "Poponto Bautista Pangasinan";
+            StudentContactLabel.Text = "0912345678901";
+            StudentEmailLabel.Text = "saitamsensei0101@gmail.com";
+            StudentCourseYearLabel.Text = "BSIT WMT 3-1";
+            ParentNameLabel.Text = "Joyce Sagum";
+            ParentContactLabel.Text = "0909876543211";
+            HobbiesLabel.Text = "Reading";
+            NicknameLabel.Text = "Chandler";
         }
 
         private void AddImageBtn_Click(object sender, EventArgs e)
