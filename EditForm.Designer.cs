@@ -1,4 +1,4 @@
-﻿namespace Sumagang_Jon_Mickyl
+﻿namespace Sagum_Justine_Ray
 {
     partial class EditForm
     {
