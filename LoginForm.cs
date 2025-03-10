@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sumagang_Jon_Mickyl
+namespace Sagum_Justine_Ray
 {
     public partial class LoginForm : Form
     {
-        private string validUsername = "Mickyl";
+        private string validUsername = "JustineRay";
         private string validPassword = "password";
         private int loginAttempts = 0;
 
