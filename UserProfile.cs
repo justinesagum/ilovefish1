@@ -1,4 +1,4 @@
-using Sumagang_Jon_Mickyl;
+using Sagum_Justine_Ray;
 public class UserProfile
 {
     public string Name { get; set; }
